@@ -8,6 +8,8 @@
   Attached is a fully responsive charity website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
   This website was made as a individual project for an **Web Development** internship at **Suvidha Mahila Mandal**.
 
+## Certificate:
+
   ![Certificate](https://github.com/akulvaishnavi/NGO-Website/assets/98584106/5e7c6e86-fa13-4e96-8715-e9f3cfc5551e)
 
 
@@ -15,4 +17,4 @@
 
 <br />
 
-This project is inspired by * [Wildvine](https://github.com/codewithsadee/wildvine)
+This project is inspired by [Wildvine](https://github.com/codewithsadee/wildvine)
