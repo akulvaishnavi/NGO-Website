@@ -8,6 +8,7 @@
 
   ![Certificate](https://github.com/akulvaishnavi/NGO-Website/assets/98584106/5e7c6e86-fa13-4e96-8715-e9f3cfc5551e)
 </div>
+
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
