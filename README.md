@@ -2,7 +2,7 @@
   <h2 align="center">Suvidha Foundation - NGO website</h2>
 
   Attached is a fully responsive charity website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-  This website was made as a individual project for an **Web Development** internship at **Suvidha Mahila Mandal**.
+  This website was made as an individual project for a **Web Development** internship at **Suvidha Mahila Mandal**.
 
 ## Certificate:
 
