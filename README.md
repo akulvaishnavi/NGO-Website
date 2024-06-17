@@ -1,8 +1,4 @@
 <div align="center">
-
-  <br />
-  <br />
-
   <h2 align="center">Suvidha Foundation - NGO website</h2>
 
   Attached is a fully responsive charity website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
